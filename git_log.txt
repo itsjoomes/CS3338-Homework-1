@@ -1,0 +1,70 @@
+commit 0254859c12a74790eb24730471775cbfaf465694
+Author: JacksonLe71 <112028609+JacksonLe71@users.noreply.github.com>
+Date:   Fri Sep 11 13:19:27 2026 -0700
+
+    Update index.html
+    
+    Added information about myself
+
+commit 1d616a167751454cc9b95e2ce58afcb1905bddc5
+Merge: f37cdce 01b9916
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Fri Sep 11 13:10:18 2026 -0700
+
+    Merge pull request #1 from itsjoomes/feature-about-me
+    
+    Added about me information
+
+commit 01b99160388517b10234b55d2937ed7f4337fcbc
+Merge: f7392cd f37cdce
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Fri Sep 11 13:09:12 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit f7392cd3545ff465d9872913e85a85da7f935f58
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Fri Sep 11 13:02:51 2026 -0700
+
+    Updated index.html with about me information
+    
+    Added my name, hobby, favorite food, and a fun fact about myself
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
